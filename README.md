@@ -76,7 +76,7 @@ index.html은 자유롭게 작성합니다.
 ```
 <img src="ASSETS/screenshot.png">
     
-## [Electron 배포 ➤](https://github.com/cionman/02_Electron_HelloWorld) 
+## [Electron 배포 ➤](https://github.com/cionman/03_Electron_Distribution) 
 
 
  
