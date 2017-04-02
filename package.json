@@ -1,0 +1,14 @@
+{
+  "name": "Electron-HelloWorld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "suwoni <topspin1278@naver.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.6.2"
+  }
+}
